@@ -94,7 +94,7 @@ function App() {
           </div>
         );
       })}
-
+      
       <button onClick={() => setTitle(0)}>글제목0</button>
       <button onClick={() => setTitle(1)}>글제목1</button>
       <button onClick={() => setTitle(2)}>글제목2</button>
